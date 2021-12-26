@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Lazarus\fpc\bin\x86_64-win64\fpc.exe" Date="1402244695"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Meus Projetos\Experiments_Lazarus\HelloWorld\lib\x86_64-win64&quot; &quot;-FuC:\Meus Projetos\Experiments_Lazarus\HelloWorld\View&quot; -FuC:\Lazarus\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Lazarus\lazarus\lcl\units\x86_64-win64 -FuC:\Lazarus\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Lazarus\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Meus Projetos\Experiments_Lazarus\HelloWorld\&quot; &quot;-FUC:\Meus Projetos\Experiments_Lazarus\HelloWorld\lib\x86_64-win64\&quot; &quot;-FEC:\Meus Projetos\Experiments_Lazarus\HelloWorld\&quot; &quot;-oC:\Meus Projetos\Experiments_Lazarus\HelloWorld\HelloWorld.exe&quot; -dLCL -dLCLwin32 HelloWorld.lpr"/>
+</CONFIG>
